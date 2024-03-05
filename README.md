@@ -18,4 +18,3 @@ Neste projeto tenho como objetivo compartilhar o meu conhecimento em desenvolvim
   - Relatório SQL
   - Exportador de arquivos (UFFE)
  
-## Imagens
